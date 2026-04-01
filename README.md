@@ -38,8 +38,8 @@ Below is our project's design structure:
 - `TestStore.java`: The main tester class with the menu-driven system.
 
 ## 👥 Team Members
-* **[اسمك هنا]** - (ID: [رقمك الجامعي])
-* **[اسم خويك هنا]** - (ID: [رقم خويك الجامعي])
+* **[Salman Mislat AL-Mutairi]** - (ID: [446102848])
+* **[Abdulaziz Mazen AL-Aushan]** - (ID: [446104638])
 
 ## 💻 How to Run
 1. Download or clone this repository.
