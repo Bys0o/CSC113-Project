@@ -24,6 +24,7 @@ To meet the project requirements, we implemented the following:
 Below is our project's design structure:
 
 👉 **[Click here to view the UML Diagram (PDF)](./CSC_Proj_UML.pdf)**
+
 *(Note: If the image doesn't appear, please check the UML.png file in the repository.)*
 
 ## 📂 Project Structure
